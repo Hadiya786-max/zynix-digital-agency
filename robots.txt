@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://hadiya786-max.github.io/zynix-digital-agency/sitemap.xml
