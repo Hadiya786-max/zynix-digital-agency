@@ -1,0 +1,40 @@
+# All search engines and AI models are welcome to read this site.
+User-agent: *
+Allow: /
+
+# AI crawlers — explicitly allowed so ChatGPT, Claude, Perplexity,
+# Gemini, Copilot and other AI assistants can read and cite this site.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://hadiya786-max.github.io/zynix-digital-agency/sitemap.xml
